@@ -33,9 +33,9 @@ The following are the fields produced in the **projectResultsData.csv** file pro
 
 Details about each of the field is given below:
 
-**activityId**: an integer between 1 to 6 indicating the activity. For mappings see activityLabel
-**subjectId**:  subject id who participated in the experiment
-**activityLabel**: activity description for each of the activityId. Following is the mapping between activityId & activityName
+* **activityId**: an integer between 1 to 6 indicating the activity. For mappings see activityLabel
+* **subjectId**:  subject id who participated in the experiment
+* **activityLabel**: activity description for each of the activityId. Following is the mapping between activityId & activityName
 
 |**activityId** | **activityName** |
 | -----------:|:--------------   | 
