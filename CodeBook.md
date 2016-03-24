@@ -23,21 +23,21 @@ activityLabel: activity description for each of the activityId. Following is the
 
 Mean value is generated for each of the following fields and the names are self-explanatory
 
-TimeBodyAccMagMean	
-TimeBodyAccMagStdDev	
-TimeGravityAccMagMean	
-TimeGravityAccMagStdDev	
-TimeBodyAccJerkMagnitudeMean	
-TimeBodyAccJerkMagnitudeStdDev	
-TimeBodyGyroMagnitudeMean	
-TimeBodyGyroMagnitudeStdDev	
-TimeBodyGyroJerkMagnitudeMean	
-TimeBodyGyroJerkMagnitudeStdDev	
-FreqBodyAccMagMean	
-FreqBodyAccMagStdDev	
-FreqBodyAccJerkMagnitudeMean	
-FreqBodyAccJerkMagnitudeStdDev	
-FreqBodyGyroMagnitudeMean	
-FreqBodyGyroMagnitudeStdDev	
-FreqBodyGyroJerkMagnitudeMean	
-FreqBodyGyroJerkMagnitudeStdDev
+1. TimeBodyAccMagMean	
+1. TimeBodyAccMagStdDev	
+1. TimeGravityAccMagMean	
+1. TimeGravityAccMagStdDev	
+1. TimeBodyAccJerkMagnitudeMean	
+1. TimeBodyAccJerkMagnitudeStdDev	
+1. TimeBodyGyroMagnitudeMean	
+1. TimeBodyGyroMagnitudeStdDev	
+1. TimeBodyGyroJerkMagnitudeMean	
+1. TimeBodyGyroJerkMagnitudeStdDev	
+1. FreqBodyAccMagMean	
+1. FreqBodyAccMagStdDev	
+1. FreqBodyAccJerkMagnitudeMean	
+1. FreqBodyAccJerkMagnitudeStdDev	
+1. FreqBodyGyroMagnitudeMean	
+1. FreqBodyGyroMagnitudeStdDev	
+1. FreqBodyGyroJerkMagnitudeMean	
+1. FreqBodyGyroJerkMagnitudeStdDev
