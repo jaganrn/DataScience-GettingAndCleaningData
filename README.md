@@ -12,6 +12,7 @@ The R script named *run_analysis.R*, does the following:
 
 
 If you plan to run this script the following needs to be done:
+
 1. Download the data and unzip into the folder named *UCI HAR Dataset* in the same directory where *run_analysis.R* is present
 1. Change the path from C:/usr/jagan/DataScience/GettingAndCleaningData/Project to the directory where *run_analysis.R* is present
 1. Result file is produced with the name *projectResultsData.csv* in the current working directory
