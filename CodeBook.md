@@ -7,6 +7,7 @@ Also detailed description of the master dataset is available at [*"UCI Machine L
 
 The following are the fields produced in the **projectResultsData.csv** file produced in the current working directory of the project. As the file extension indicate this file is COMMA separated with each record containing the mean variables for each of the activityId, subjectId, activityLabel combinations. Each row contain the following fields in order
 
+1. recordNumber
 1. activityId
 1. subjectId
 1. activityLabel
