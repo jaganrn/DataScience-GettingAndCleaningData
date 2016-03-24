@@ -13,6 +13,7 @@ subjectId:  subject id who participated in the experiment
 activityLabel: activity description for each of the activityId. Following is the mapping between activityId & activityName
 
 |*activityId* | *activityName* |
+| ----------- | -------------- | 
 |1            | WALKING |
 |2            | WALKING_UPSTAIRS |
 |3            | WALKING_DOWNSTAIRS |
