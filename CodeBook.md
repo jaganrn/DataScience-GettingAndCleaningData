@@ -11,6 +11,7 @@ The following are the fields produced in the projectResultData.csv file. As the 
 activityId: an integer between 1 to 6 indicating the activity. For mappings see activityLabel
 subjectId:  subject id who participated in the experiment
 activityLabel: activity description for each of the activityId. Following is the mapping between activityId & activityName
+
 |*activityId* | *activityName* |
 |1            | WALKING |
 |2            | WALKING_UPSTAIRS |
