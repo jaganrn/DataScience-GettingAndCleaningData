@@ -5,15 +5,15 @@ This Code Book describes the data elements produced by the R script named *run_a
 Also detailed description of the master dataset is available at [*"UCI Machine Learning Repository"*](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The data used for this project is found at [data source](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 
-The following are the fields produced in the **projectResultsData.csv file**. As the file extension indicate this file is COMMA separated with each record containing the mean variables for each of the activityId, subjectId, activityLabel combinations. Details about each of the field is given below:
+The following are the fields produced in the **projectResultsData.csv** file produced in the current working directory of the project. As the file extension indicate this file is COMMA separated with each record containing the mean variables for each of the activityId, subjectId, activityLabel combinations. Details about each of the field is given below:
 
 
 activityId: an integer between 1 to 6 indicating the activity. For mappings see activityLabel
 subjectId:  subject id who participated in the experiment
 activityLabel: activity description for each of the activityId. Following is the mapping between activityId & activityName
 
-|*activityId* | **activityName** |
-| ----------- |:--------------   | 
+|**activityId** | **activityName** |
+| -----------:|:--------------   | 
 |1            | WALKING |
 |2            | WALKING_UPSTAIRS |
 |3            | WALKING_DOWNSTAIRS |
