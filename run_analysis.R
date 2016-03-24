@@ -95,5 +95,5 @@ colnames(mergedData) = columnNames
 finalResult = aggregate(mergedData[, names(mergedData) != c("activityId", "subjectId", "activityLabel")], by=list(activityId=mergedData$activityId, subjectId = mergedData$subjectId, activityLabel=mergedData$activityLabel), mean)
 
 # flush out the results
-write.csv(finalResult, "./projectResultsData.csv")
+write.table(finalResult, "./projectResultsData.txt", row.name=FALSE)
 
